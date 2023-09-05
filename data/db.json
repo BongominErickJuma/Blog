@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "title": "The Starlight Key",
+      "body": "In the sleepy town of Stardale, young Tommy discovered a mysterious key one starry night. When he turned the key in the air, constellations came alive, forming pathways to distant galaxies. Excitedly, he embarked on cosmic adventures, meeting celestial beings and learning the wonders of the universe.",
+      "author": "Thomas Rivers",
+      "id": 1
+    },
+    {
+      "title": "The Whimsical Brush",
+      "body": "In a forgotten attic, Emma stumbled upon a magical paintbrush. Whatever she painted with it materialized into reality! With boundless creativity, she brought joy to her town, painting beautiful murals and fantastical creatures that leaped from the walls into the hearts of people.",
+      "author": " Isabella Greene",
+      "id": 2
+    },
+    {
+      "title": "The Whispering Willow",
+      "body": "In the heart of an enchanted forest, Mia found a puzzle that, when solved, restored harmony to nature. As she journeyed through the forest, she learned about the delicate balance between all living creatures.\n\nTitle: The Whispering Willow\nAuthor: Oliver Knight\n\nIn the outskirts of a quiet village, Amelia encountered a mystical willow tree that could communicate with her through whispers in the wind. The tree shared ancient wisdom, guiding her on a path of self-discovery and compassion.",
+      "author": "Oliver Knight",
+      "id": 3
+    },
+    {
+      "title": "The Puzzle of Serenity",
+      "body": "In the heart of an enchanted forest, Mia found a puzzle that, when solved, restored harmony to nature. As she journeyed through the forest, she learned about the delicate balance between all living creatures.",
+      "author": "Sophia Lee",
+      "id": 4
+    },
+    {
+      "title": "The Melody of Time",
+      "body": "In an old antique shop, Lily discovered a pocket watch that could rewind time. As she explored its power, she learned valuable lessons about cherishing the present and making every moment count.\n\n",
+      "author": "Benjamin Turner",
+      "id": 5
+    },
+    {
+      "title": "The Luminous Compass",
+      "body": "On a deserted island, Alex found a compass that glowed with an otherworldly light. Following its direction, he embarked on a thrilling voyage, uncovering lost treasures and encountering mythical creatures.",
+      "author": "Grace Parker",
+      "id": 6
+    },
+    {
+      "title": "The Dancing Shoes",
+      "body": "In an old cobbler's shop, Sarah discovered a pair of dancing shoes that transported her to a magical ballroom. There, she danced with fairies and learned the power of following her heart's desires.\n\n",
+      "author": "Michael Turner",
+      "id": 7
+    },
+    {
+      "title": "The Oracle's Mirror",
+      "body": "In a hidden cave, Jack gazed into an ancient mirror that revealed visions of the future. Through its reflections, he learned about the consequences of choices and the importance of foresight.",
+      "author": "Ava Scott",
+      "id": 8
+    },
+    {
+      "title": "The Timeless Bookshelf",
+      "body": "In her grandmother's attic, Emily found a bookshelf that held books with blank pages. As she wrote her stories in them, she realized that her tales came to life, shaping her own destiny.",
+      "author": " Natalie Reed",
+      "id": 9
+    },
+    {
+      "title": " The Celestial Harp",
+      "body": "Atop a mystical mountain, Amelia discovered a harp that played melodies inspired by the stars. With its music, she healed hearts and brought harmony to those in need.",
+      "author": "Oliver Hughes",
+      "id": 10
+    },
+    {
+      "title": "The Sapphire Quill",
+      "body": "In a hidden glade, Daniel found a quill with ink made of stardust and sapphire. Every word he wrote became a beautiful verse, inspiring others to find beauty in the ordinary.",
+      "author": " Isabelle Adams",
+      "id": 11
+    },
+    {
+      "title": "The Laughing Potion",
+      "body": "In a quirky apothecary, Lily stumbled upon a potion that made everything laugh. Embracing the power of laughter, she brought cheer to the grumpiest of souls.\n\n",
+      "author": "Benjamin Stone",
+      "id": 12
+    },
+    {
+      "title": "The Whispering Tides",
+      "body": "On a secluded beach, Mia discovered seashells that held the ocean's whispers. With their secrets, she learned about the interconnectedness of all life and the ebb and flow of destiny.",
+      "author": " Sophia Bennett",
+      "id": 13
+    },
+    {
+      "title": "The Sunflower Amulet",
+      "body": "In a sunlit meadow, Noah found an amulet that made sunflowers bloom with vibrant colors. With every bloom, he spread joy and optimism to those around him.",
+      "author": "Lucas Turner",
+      "id": 14
+    },
+    {
+      "title": "The Serenade of Fireflies",
+      "body": "In the depths of a forest, Ethan encountered fireflies that danced to the rhythm of his heartbeat. Through their dance, he learned the value of embracing the present and finding peace within.",
+      "author": " Harper Adams",
+      "id": 15
+    }
+  ]
+}
